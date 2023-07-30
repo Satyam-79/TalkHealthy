@@ -34,6 +34,12 @@ source env/bin/activate
 ```
 pip install -r requirements.txt
 ```
+`LLM model should be placed under models/ directory:`
+  
+  **Model download URL:** https://huggingface.co/TheBloke/wizardLM-7B-GPTQ  
+  
+  _llamacpp: WizardLM-7B-uncensored.ggmlv3.q4_K_S.bin_
+
 5. Run the API
 ```
 python main_api.py
