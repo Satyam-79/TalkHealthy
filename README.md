@@ -44,7 +44,7 @@ API is available at http://localhost:8080
 ```
 streamlit run main_web.py
 ```
-7. Open your browser and navigate to http://localhost:8080 ,enjoy the app and stay fit.
+7. Open your browser and navigate to http://localhost:8501 ,enjoy the app and stay fit.
 
 ## Contributions
 Contributions to TalkHealthy are welcome! If you find any bugs or have suggestions for improvement, please feel free to open issues or submit pull requests.
